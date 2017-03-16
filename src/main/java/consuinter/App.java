@@ -9,7 +9,7 @@ public class App
     public static void main( String[] args )
     {
 
-        System.out.println( "Hello World modified via cs push!" );
+        System.out.println( "Hello World modified via cs push :D" );
 
     }
 }
